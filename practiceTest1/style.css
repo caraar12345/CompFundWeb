@@ -1,0 +1,12 @@
+body {
+  background-color: #ebffeb;
+}
+li {
+  border: solid 1px black;
+  border-radius: 5px 5px 5px 5px;
+  margin: 5px;
+  padding: 5px;
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  list-style-image: url("https://aaroncarson.co.uk/content/images/2019/03/547812.png");
+}
